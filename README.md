@@ -67,13 +67,13 @@ When I'm not responding to incidents or writing detection rules, I'm building to
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Page Pilot**](https://github.com/lakshyarao22/Page-Pilot) | Minimal, keyboard-driven new tab extension. [Get it on Chrome Web Store!](https://chromewebstore.google.com/detail/page-pilot/fbjapfnmaijdmggcbmnghmgacejokmce) | JavaScript |
-| [**Ollama Translator**](https://github.com/lakshyarao22/Ollama-Translator) | Privacy-first translation tool running on a self-hosted GPU with Ollama | HTML, JS, AWS |
-| [**ES Theme Perfect Gameboy**](https://github.com/lakshyarao22/es-theme-perfect-gameboy) | Retro Gameboy-inspired theme for EmulationStation handhelds | Shell, XML |
-| [**DWM**](https://github.com/lakshyarao22/dwm) | My custom fork of the Dynamic Window Manager | C |
-| [**Todo-Terminal**](https://github.com/lakshyarao22/Todo-Terminal) | Simple terminal todo list — reminds you of tasks every time you open a shell | Shell |
-| [**DigiWallet**](https://github.com/lakshyarao22/digiwallet) | Digital wallet mobile application | Dart / Flutter |
-| [**24/7 Live Streaming**](https://github.com/lakshyarao22/24-7-live-streaming) | Automated 24/7 live streaming setup | Python |
+| [**Page Pilot**](https://github.com/inqstv/Page-Pilot) | Minimal, keyboard-driven new tab extension. [Get it on Chrome Web Store!](https://chromewebstore.google.com/detail/page-pilot/fbjapfnmaijdmggcbmnghmgacejokmce) | JavaScript |
+| [**Ollama Translator**](https://github.com/inqstv/Ollama-Translator) | Privacy-first translation tool running on a self-hosted GPU with Ollama | HTML, JS, AWS |
+| [**ES Theme Perfect Gameboy**](https://github.com/inqstv/es-theme-perfect-gameboy) | Retro Gameboy-inspired theme for EmulationStation handhelds | Shell, XML |
+| [**DWM**](https://github.com/inqstv/dwm) | My custom fork of the Dynamic Window Manager | C |
+| [**Todo-Terminal**](https://github.com/inqstv/Todo-Terminal) | Simple terminal todo list — reminds you of tasks every time you open a shell | Shell |
+| [**DigiWallet**](https://github.com/inqstv/digiwallet) | Digital wallet mobile application | Dart / Flutter |
+| [**24/7 Live Streaming**](https://github.com/inqstv/24-7-live-streaming) | Automated 24/7 live streaming setup | Python |
 
 ---
 
@@ -91,16 +91,16 @@ When I'm not responding to incidents or writing detection rules, I'm building to
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyarao22&theme=github&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inqstv&theme=github&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshyarao22&theme=github" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inqstv&theme=github" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshyarao22&theme=github" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshyarao22&theme=github" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inqstv&theme=github" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inqstv&theme=github" alt="Stats" />
 </p>
 
 ---
